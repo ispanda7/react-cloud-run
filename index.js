@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>
-          ทดสอบ React บน apps.rocket-platform.net
+          Test run no https://apps.rocket-platform.net
         </p>
       </div>
     );
